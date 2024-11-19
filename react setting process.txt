@@ -1,0 +1,21 @@
+1. 디렉토리 형성
+2. 디렉토리를 편집창에 이동
+3. ctrl j 로 터미널 오픈  
+4. 터미널  경로 확인 
+5. npx create-react-app ./
+6. src  다죽이기 
+7app css 필요하면 죽이기
+8npm start
+9app.js 파일에서 최상 파일 태그 제외하고 삭제 
+
+app.js = 대부분 다시 다죽이기 위죽이고 헤더 죽이기 
+
+index 파일에서 안쓰는거 삭제 
+
+tailwind 설치 
+
+app.js 내부 div 클래스안에 tailwind 속성값 입력 테스트 
+
+router -설정 
+
+npm install react-router-dom
